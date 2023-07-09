@@ -1,0 +1,7 @@
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\bin\Debug\贪吃蛇.exe
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\bin\Debug\贪吃蛇.pdb
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\obj\Debug\贪吃蛇.csproj.AssemblyReference.cache
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\obj\Debug\贪吃蛇.csproj.SuggestedBindingRedirects.cache
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\obj\Debug\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\obj\Debug\贪吃蛇.exe
+D:\Develop\RiderProjects\CSharp核心\贪吃蛇\obj\Debug\贪吃蛇.pdb
